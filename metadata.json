@@ -1,0 +1,8 @@
+{
+  "name": "Homsent Chef: Recetas con IA",
+  "description": "Una aplicación de IA que genera recetas personalizadas a partir de ingredientes. Utiliza la API de Gemini y el logo de Homsent para crear platos deliciosos con lo que tienes a mano.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
